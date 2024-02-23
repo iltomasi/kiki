@@ -6,28 +6,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2024-02-06T18:54:10-00:00</lastmod>
+<lastmod>2024-02-23T16:52:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2024-02-06T18:54:10-00:00</lastmod>
+<lastmod>2024-02-23T16:52:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2024-02-06T18:54:10-00:00</lastmod>
+<lastmod>2024-02-23T16:52:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2024-02-06T18:54:10-00:00</lastmod>
+<lastmod>2024-02-23T16:52:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,6 +47,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/pages/Test.html</loc>
+<lastmod>2024-02-02T10:20:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/pages/test.html</loc>
 <lastmod>2024-02-02T10:20:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -55,7 +62,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2024-02-06T18:54:10-00:00</lastmod>
+<lastmod>2024-02-23T16:52:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
